@@ -1,6 +1,6 @@
 React app made alongisde with tutorial for practice. 
 
-
+________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
